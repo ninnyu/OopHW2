@@ -1,0 +1,3 @@
+Homework 2, Question 4
+
+I don’t know. My only guess is that because you shifted the int x and then put it back into x, it did something weird. That’s the only difference I can see and I couldn’t find anything about it on the inter-webs.
