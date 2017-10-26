@@ -1,7 +1,13 @@
-/* Homework 2, Question 6
- * @author NinnYu Chin
- * Description: Changes the delimiter to any character and prints it out.
- * Reference: https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
+/* 	Homework 2, Question 6
+ * 	@author NinnYu Chin
+ * 	Instruction: 	Your job is to tokenize individual characters. Your code looks like:
+ *			Scanner in = ...
+ *			in.useDelimiter()
+ *			while(in.hasNext()){
+ *				print the current token.
+ *			}
+ *			What delimiter should you use here?
+ * 	Reference: 	https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
  */
 
 import java.util.*;
