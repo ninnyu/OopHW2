@@ -1,7 +1,8 @@
-/* Homework 2, Question 5
- * @author NinnYu Chin
- * Description: Changes the delimiter of a scanner object to a ",".
- * Reference: https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
+/* 	Homework 2, Question 5
+ 	@author NinnYu Chin
+ 	Instruction:	Change Scanner's delimiter, and tokenize comma separated values entered by 
+			the keyboard.
+ 	Reference: https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
  */
 
 import java.util.*;
