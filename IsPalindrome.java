@@ -1,6 +1,7 @@
-/* Homework 2, Question 3
- * @author NinnYu Chin
- * Description: Determines whether a string is a palindrome or not.
+/* 	Homework 2, Question 3
+ * 	@author NinnYu Chin
+ * 	Instruction:	Write a program to check whether a string is a palindrome (a string that's 
+ *	the same forward and backwards, for eg, madamimadam).
  */
 
 import java.util.*;
