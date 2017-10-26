@@ -1,6 +1,6 @@
 /* 	Homework 2, Question 2
  	@author NinnYu Chin
- 	Description:	Write a program that displays a calendar on the screen. It asks the user 
+ 	Instruction:	Write a program that displays a calendar on the screen. It asks the user 
 			the year, what day the first of January fell on, then displays every month 
 			from January to December. Make sure to get the leap years right. Your 
 			months should resemble the following format:
