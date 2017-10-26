@@ -1,6 +1,6 @@
 /* 	Homework 2, Question 1
  *	@author NinnYu
- *	Description: 	Write a program that asks the user how tall of a pyramid do they want to 
+ *	Instruction: 	Write a program that asks the user how tall of a pyramid do they want to 
  *			display on the screen, and then displays the pyramid that counts up on the 
  *			left, and counts down on the right. For eg, if the user enters 4, the 
  *			program shows:
